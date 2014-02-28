@@ -1,0 +1,16 @@
+{
+  "name": "mcp3424",
+  "version": "0.0.1",
+  "description": "Module to read from the mcp3424 4Channel Delta Sigma ADC",
+  "main": "main.js",
+  "author": "Fabian Behnke",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/x3itsolutions/mcp3424.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "1.7.1",
+    "i2c": "0.1.4"
+  }
+}
