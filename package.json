@@ -1,7 +1,7 @@
 {
   "name": "mcp3424",
   "version": "0.0.1",
-  "description": "Module to read from the mcp3424 4Channel Delta Sigma ADC",
+  "description": "Module to read from MCP3424 4Channel Delta Sigma ADC",
   "main": "main.js",
   "author": "Fabian Behnke",
   "repository": {
