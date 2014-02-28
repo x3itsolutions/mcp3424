@@ -27,4 +27,4 @@ setTimeout(function(){
 ````
 
 # Known issues
-Negative values couldn't be measured yet.
+Maybe issues with negative values.
