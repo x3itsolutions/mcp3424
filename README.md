@@ -26,3 +26,5 @@ setTimeout(function(){
 }, 2000); //first conversion needs a bit time...(smaller resolution -> faster)
 ````
 
+# Known issues
+Negative values couldn't be measured yet.
