@@ -1,6 +1,5 @@
 {
   "name": "mcp3424",
-  "version": "0.0.1",
   "version": "0.0.2",
   "description": "Module to read from MCP3424 4Channel Delta Sigma ADC",
   "main": "main.js",
